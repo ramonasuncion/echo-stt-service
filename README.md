@@ -2,6 +2,12 @@
 
 A FastAPI-based service for real-time speech-to-text using [faster-whisper](https://github.com/SYSTRAN/faster-whisper) and WebRTC VAD.
 
+
+
+https://github.com/user-attachments/assets/83c49dcb-e263-43f4-96fc-1430650a5689
+
+
+
 ## Installation
 
 ```bash
